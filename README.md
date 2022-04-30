@@ -6,9 +6,9 @@ All credits go to the great people in the info sec. community that shared their 
 I will regurarly update the guides and keep working on adding new content. If you want to collaborate, report any mistakes or notify me on missed references to tools/blogs/etc., let me know. 
 
 ## Survival Guides:
-[Red Teaming Survival Guide](guides/RTSG.pdf)
+[Red Teaming Survival Guide](Guides/RTSG.pdf)
 
-[Web App Pentesting Survival Guide](guides/WAPSG.pdf)
+[Web App Pentesting Survival Guide](Guides/WAPSG.pdf)
 
 ## References:
-In the guides, references are made to the repo's and sometimes blog posted were you can find the discribed tools and techniques. 
+In the guides, references are made to the repo's and sometimes blogs were you can find the discribed tools and techniques. 
