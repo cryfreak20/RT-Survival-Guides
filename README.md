@@ -11,4 +11,4 @@ I will regurarly update the guides and keep working on adding new content. If yo
 [Web App Pentesting Survival Guide](Guides/WAPSG.pdf)
 
 ## References:
-In the guides, references are made to the repo's and sometimes blogs were you can find the discribed tools and techniques. 
+In the documents, references are made to the repo's and sometimes blogs were you can find the discribed tools and techniques. 
